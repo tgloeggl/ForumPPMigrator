@@ -1,4 +1,6 @@
 ForumPPMigrator
 ===============
 
-Migrates the contents of a Stud.IP-Forum to ForumPP
+Kopiert die Inhalte eines Stud.IP-Standardforums in das ForumPP.
+
+Dieses Plugin fügt dem ForumPP einen Menüpunkt "Migration" hinzu.
